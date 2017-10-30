@@ -1,6 +1,10 @@
 # hello-world
 The example of GitHub usage.
 
+# Question / Contact Me / Hire Me
+
+Please feel free to ping me at rhino_luo@163.com.
+
 # License
 Copyright 2017 rhino luo
 
